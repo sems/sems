@@ -7,10 +7,10 @@ My name is Sem Spanhaak, currently studying for my BSc in Software Engineering i
 <img style="padding-left:5%;margin-top:2.5%;" align="right" width="50%" alt="Banner" src="https://github-readme-stats.vercel.app/api?username=semspanhaak&count_private=true&show_icons=true&line_height=30&hide_border=true&hide=contribs,stars"/>
 
 ### ⚡ Talk to me about
-Front-end development using **React JS, Sass, CSS**
-Backend development using **C#, PHP**
-Mobile app development using **Flutter, Swift**
-Sparetime stuff like **Books, games, technology**
+- Front-end development using **React JS, Sass, CSS**
+- Backend development using **C#, PHP**
+- Mobile app development using **Flutter, Swift**
+- Sparetime stuff like **Books, games, technology**
 
 ### 🔊 Reach out!
 
