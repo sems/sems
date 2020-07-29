@@ -1,10 +1,11 @@
 # 👋 Hi, nice seeing you here! 
 
-<img style="padding-left:5%;" align="right" width="50%" alt="Banner" src="https://raw.githubusercontent.com/semspanhaak/semspanhaak/master/assets/full_light%403x.png" />
+<a href="https://sems.dev"><img style="padding-left:5%;" align="right" width="50%" alt="Banner" src="https://raw.githubusercontent.com/semspanhaak/semspanhaak/master/assets/full_light%403x.png" /></a>
 
 My name is Sem Spanhaak, currently studying for my BSc in Software Engineering in the Netherlands. Besides school, I work as a mobile app developer, copywriter & product specialist. 
 
-<img style="padding-left:5%;margin-top:2.5%;" align="right" width="50%" alt="Banner" src="https://github-readme-stats.vercel.app/api?username=semspanhaak&count_private=true&show_icons=true&line_height=30&hide_border=true&hide=contribs,stars"/>
+<a href="https://sems.dev"><img style="padding-left:5%;margin-top:2.5%;" align="right" width="50%" alt="Banner" src="https://github-readme-stats.vercel.app/api?username=semspanhaak&count_private=true&show_icons=true&line_height=30&hide_border=true&hide=contribs,stars"/></a>
+
 
 ### ⚡ Talk to me about
 - Front-end development using **React JS, Sass, CSS**
