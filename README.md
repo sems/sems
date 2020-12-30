@@ -9,7 +9,7 @@ My name is Sem Spanhaak, currently studying for my BSc in Software Engineering i
 
 ### ⚡ Talk to me about
 - Front-end development using **React JS, Sass, CSS**
-- Backend development using **C#, PHP**
+- Backend development using **C#, PHP/Laravel**
 - Mobile app development using **Flutter, Swift**
 - Sparetime stuff like **Books, games, technology**
 
