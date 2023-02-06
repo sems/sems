@@ -6,9 +6,9 @@
 
 
 ### ⚡ Talk to me about
-- Front-end development using **React JS, Sass, CSS**
+- Front-end development using **React JS, Sass**
 - Backend development using **C#, PHP/Laravel**
-- Mobile app development using **Flutter, Swift**
+- Mobile app development using **Swift Flutter**
 - Sparetime stuff like **Books, games, technology**
 
 ### 🔊 Reach out!
