@@ -13,5 +13,5 @@
 
 ### 🔊 Reach out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@SemSpanhaak-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SemSpanhaak)](https://twitter.com/semspanhaak) [![Linkedin Badge](https://img.shields.io/badge/-SemSpanhaak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/semspanhaak/)](https://www.linkedin.com/in/semspanhaak/) [![Protonmail Badge](https://img.shields.io/badge/-me@sems.dev-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:me@sems.dev)](mailto:me@sems.dev)  [![Unsplash Badge](https://img.shields.io/badge/-@semspam-000000?style=flat-square&logo=unsplash&logoColor=white&link=https://unsplash.com/@semspam)](https://unsplash.com/@semspam) 
+[![Protonmail Badge](https://img.shields.io/badge/-me@sems.dev-8B89CC?style=flat-square&logo=protonmail&logoColor=white&link=mailto:me@sems.dev)](mailto:me@sems.dev)  [![Unsplash Badge](https://img.shields.io/badge/-@semspam-000000?style=flat-square&logo=unsplash&logoColor=white&link=https://unsplash.com/@semspam)](https://unsplash.com/@semspam) 
 
